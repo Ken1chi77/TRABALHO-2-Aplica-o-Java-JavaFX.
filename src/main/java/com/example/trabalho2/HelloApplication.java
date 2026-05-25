@@ -1,4 +1,4 @@
-package com.example.tgit initrabalho2;
+package com.example.trabalho2;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
